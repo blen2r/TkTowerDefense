@@ -1,0 +1,3 @@
+Jacques,300
+George,200
+Jack,100
